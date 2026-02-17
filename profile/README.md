@@ -3,14 +3,14 @@
 ---
 # 🧬 Human Genetics of Neurological Disorders
 
-Research unit at IRCCS Ospedale San Raffaele (Milan, Italy), within the Institute of Experimental Neurology (INSPE).
+Research unit at IRCCS Ospedale San Raffaele (Milan, Italy), within the Division of Neuro-Science (DNS).
 We study the **genetic and multi-omics architecture of neurological disorders**, with a primary focus on multiple sclerosis (MS) and CNS inflammatory diseases.
 
 ---
 
 ## 👥 Who We Are
 
-A multidisciplinary team of neurologists, biologists, and bioinformaticians working alongside a biobank of 3,000+ patients with CNS inflammatory disorders.
+A multidisciplinary team of neurologists, biologists, and bioinformaticians working alongside a biobank of 4,000+ patients with CNS inflammatory disorders.
 Led by **Federica Esposito, MD, PhD** — neurologist and computational biologist integrating clinical neurology with advanced genomics and data science.
 
 ---
